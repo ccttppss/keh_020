@@ -11,7 +11,7 @@ from langchain.document_loaders import UnstructuredPowerPointLoader
 
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 
-from langchain.embeddings import HuggingfaceEmbeddings
+from langchain.embeddings import HuggingFaceEmbeddings
 
 from langchain.memory import ConversationBufferMemory
 from langchain.memory import StreamlitChatMessageHistory
